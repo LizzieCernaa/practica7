@@ -24,8 +24,11 @@ namespace Promedio
             C = double.Parse(Console.ReadLine());
 
             double promedio = (A + B + C) / 3;
+           // Para redondiar a dos decimales -- promedio = Math.Round(promedio,2);
             Console.WriteLine($"El promedio del {A}  {B}  {C} es {promedio}");
 
+
+            Console.ReadKey();
         }
     }
 }
