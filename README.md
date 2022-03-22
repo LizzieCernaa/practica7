@@ -1,5 +1,4 @@
 # practica7
-# Practica 7
 
 ## Ingeniero Robin Castillo Saavedra 🎮
 ###Programacion
